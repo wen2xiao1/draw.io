@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T06:02:56.315Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="Z00bBM5P6dfPe5gdTGrH" version="24.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-16T06:10:09.592Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="NV52UhmaholAxf4LdcP-" version="24.4.2" type="github">
   <diagram name="第 1 页" id="N9mIcC652Esu7andAZMd">
-    <mxGraphModel dx="1042" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="834" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,16 @@
         <mxCell id="PCEacM3BwAYGh3glTGgx-1" value="achievement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PCEacM3BwAYGh3glTGgx-2" value="事的结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PCEacM3BwAYGh3glTGgx-9" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PCEacM3BwAYGh3glTGgx-2" target="PCEacM3BwAYGh3glTGgx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PCEacM3BwAYGh3glTGgx-12" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PCEacM3BwAYGh3glTGgx-2" target="PCEacM3BwAYGh3glTGgx-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PCEacM3BwAYGh3glTGgx-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PCEacM3BwAYGh3glTGgx-2" target="PCEacM3BwAYGh3glTGgx-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PCEacM3BwAYGh3glTGgx-2" value="某一时刻/关键事项的结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PCEacM3BwAYGh3glTGgx-5" value="人生成就" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -24,6 +33,45 @@
             <mxPoint x="390" y="330" as="sourcePoint" />
             <mxPoint x="440" y="280" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PCEacM3BwAYGh3glTGgx-8" value="天时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCEacM3BwAYGh3glTGgx-10" value="地利" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCEacM3BwAYGh3glTGgx-14" value="人和" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCEacM3BwAYGh3glTGgx-21" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PCEacM3BwAYGh3glTGgx-16" target="PCEacM3BwAYGh3glTGgx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PCEacM3BwAYGh3glTGgx-16" value="命运" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PCEacM3BwAYGh3glTGgx-22" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PCEacM3BwAYGh3glTGgx-17" target="PCEacM3BwAYGh3glTGgx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PCEacM3BwAYGh3glTGgx-17" value="大环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="35" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PCEacM3BwAYGh3glTGgx-23" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PCEacM3BwAYGh3glTGgx-18" target="PCEacM3BwAYGh3glTGgx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PCEacM3BwAYGh3glTGgx-18" value="局势" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="70" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PCEacM3BwAYGh3glTGgx-24" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PCEacM3BwAYGh3glTGgx-19" target="PCEacM3BwAYGh3glTGgx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PCEacM3BwAYGh3glTGgx-19" value="政治" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="105" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PCEacM3BwAYGh3glTGgx-25" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PCEacM3BwAYGh3glTGgx-20" target="PCEacM3BwAYGh3glTGgx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PCEacM3BwAYGh3glTGgx-20" value="人文" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="140" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
